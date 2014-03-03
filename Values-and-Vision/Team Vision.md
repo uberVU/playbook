@@ -1,0 +1,19 @@
+#Team Vision
+---
+    One team with no specific roles to get the job done
+
+You can work on a frontend API today and on scaling the ElasticSearch cluster tomorrow. As a team we connect to what’s the most product important thing we could be working right now and ship it together (ex: working on a single milestone, instead of separate projects with different release cycles). The founders and other core people certainly help set a vision for where we are going, but we all should take responsibility for deciding what to work on. At this scale we either succeed or fail together, regardless of the roles we have.
+
+At the beginning of the milestone we break out into self managed teams with members with different functional expertises but with a common goal. On occasions we do ask people to lead certain projects based on their expertise (ex: you’ve done this before and had success with it, can you help plan adding this new metric?).
+
+Being full-stack is actively encouraged and desirable. Compared to an approach where you have specialized people for specialized needs, it reduces friction and time to delivery of projects, and improves the connection of the engineers with the product and vision. In order to achieve this, we rely on your will to learn and evolve as a human being from being a programmer to someone who understands the consequences of your work from end to end. This expectation is made specific during recruiting, onboarding and further on during your tenure with us.
+
+We use open allocation concepts to decide what to work on, but we adapt them to fit our needs. You are expected to know what is the most important thing you can be working on right now, and in case you are in doubt, there are clear communication channels (Campfire, daily stand-up) where you can ask for guidance. The most important section of the ongoing issues is the client need (see issue template from Configuration Management and Tools for more details), and you are expected to stay up to date with what the whole team is working on, at least at the need level.
+
+As an engineer you are expected to understand your work’s impact in the business and come with proposals for improving the product at any level. There is no excuse for letting a poor idea go through, just because it came from a more senior member or a founder. We value your opinion from day one, and we expect you to actively expand your horizon.
+
+Continuous learning and adapting to change is part of your lifestyle. We don’t plan on you becoming comfortable in your own corner creating Mozaic widgets for your entire life, just because it’s the thing you are the most productive at right now. The better you become at a certain topic, you are expected to spread your knowledge and “fire yourself” from the role of Single Point of Failure before you become one. We will be constantly providing new books and documentation for you, and will make sure you are seriously challenged to learn something new with each and every project. If you’re not willing to learn, this is not the right place for you.
+
+Since we have a flat-ish organization, understanding our reward system for loyalty and seniority is pretty challenging if you’re into the corporate lifestyle. We want to provide you with the means of improving yourself as a human being, while applying this newly acquired knowledge to our product. However, the long term win is that you keep this precious knowledge for the rest of your life, and are able to apply it to your own projects in the future.
+
+Finally, product usage and being passionate about social media is a must. If you cannot align to the mindset of our clients and to their needs, you won’t be making the best choices in their interest. We care about your willingness and ability to learn even about topics that are traditionally uncomfortable to engineers such as marketing, thus putting the client’s needs above everything.
