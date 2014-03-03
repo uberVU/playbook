@@ -1,8 +1,10 @@
 #Team Values
 ---
 
-    It's very important for people to know themselves and understand what their value system is, because if you don't know what your value system is, then you don't know what risks are worth taking and which ones are worth avoiding.
-                                                - Benjamin Carson, neurosurgeon
+    It's very important for people to know themselves and understand what their value system is,
+    because if you don't know what your value system is, then you don't know what risks are worth 
+    taking and which ones are worth avoiding.
+                                                         - Benjamin Carson, neurosurgeon
 
 
 
